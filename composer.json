@@ -11,8 +11,8 @@
         }
     ],
     "require": {
-        "ext-couchbase": "~2.2.0",
-        "symfony/framework-bundle": "~2.6|~3.0"
+        "ext-couchbase": "~4.3",
+        "symfony/framework-bundle": "~7.3"
     },
     "suggest": {
         "nickcuper/couchbase-stub": "@dev"
